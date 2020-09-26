@@ -1,0 +1,182 @@
+/* Body/Div */
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Secular one', sans-serif;
+    background-color: #fefdca
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    margin-bottom: 0rem;
+}
+
+.profile {
+    margin: 30px auto 30px auto;
+}
+
+.skills {
+    position: relative;
+    margin: 30px auto 100px auto;
+
+
+}
+.bottom-container{
+    background-color: #66BFBF;
+    margin-bottom: 0px;
+    height: 150px;
+    line-height: 3;
+    color: #EAF6F6;
+}
+
+
+.skill-row {
+    line-height: 2;
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+
+.low-cloud {
+    position: absolute;
+    right: 200px;
+}
+
+.up-cloud {
+    position: absolute;
+    top: 40px;
+    left: 250px;
+}
+
+.btn {
+    margin: 30px auto 30px auto;
+    width: 5rem;
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: linear-gradient(to bottom, #3D94F6, #1E62D0);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 10px;
+    font-weight: 40;
+    padding: 40px;
+    box-shadow: 1px 1px 20px 0px #000000;
+    -webkit-box-shadow: 1px 1px 20px 0px #000000;
+    -moz-box-shadow: 1px 1px 20px 0px #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+/* Text Aliignemt */
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    padding-top: 100px;
+    color: #66BFBF;
+    font-size: 4rem;
+    font-family: 'Lobster', cursive;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #11999E;
+    font-size: 1.4em;
+    font-weight: normal;
+}
+
+.dev {
+    font-weight: normal;
+}
+
+.tagline {
+    line-height: 2rem;
+    font-family: 'Nova Mono', monospace;
+    font-size: 2.5rem;
+}
+
+p {
+    font-family: 'Noto Serif', serif;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+.fun404 {
+    position: absolute;
+    top: 210px;
+    font-size: 1.4em;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+a {
+    color: #11999E;
+    margin: 4px;
+}
+
+hr {
+    border-color: #9cada4;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 3rem;
+}
+
+/* Pictures Editing */
+.error {
+    position: relative;
+    bottom: 4.3rem;
+    height: 200px;
+    width: 200px;
+}
+
+.mountain {
+    margin-bottom: 3.2rem;
+}
+
+.python {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.game {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.profile-pic {
+    height: 100px;
+    width: 100px;
+}
